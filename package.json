@@ -1,0 +1,11 @@
+{
+  "name": "SBLGNT",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "fs": "0.0.2",
+    "line-reader": "^0.4.0",
+    "mongodb": "^2.1.11"
+  }
+}
